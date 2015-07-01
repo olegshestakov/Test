@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test.txt added!!!ôûââûâ
+=======
+Hello Git!!!
+>>>>>>> f5828b33ceeae654470e8f2c4238efa9c4a742a6
